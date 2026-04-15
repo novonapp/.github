@@ -13,9 +13,13 @@
 
 ## About Novon
 
-Novon is an open-source web novel reader that lets you take your library anywhere. We focus on performance, privacy, and most importantly, the reading experience. Fast, clean, and modular—built by readers, for readers.
+Novon is a free and open source web novel reader built with Flutter. It focuses on speed, privacy, and a smooth reading experience across all platforms.
 
----
+It uses a community driven extension system that lets you access novels from many sources in one place, You can download chapters, keep your progress saved, and read without needing an internet connection.
+
+Novon is fast, simple to use, and gives you full control over how you read. It is built by readers for readers.
+
+<hr style="height: 1px; background-color: #30363d; border: none;" />
 
 ## Our Projects
 
@@ -36,7 +40,7 @@ At Novon, we're dedicated to building an open ecosystem for novel enthusiasts. H
   </tr>
 </table>
 
----
+<hr style="height: 1px; background-color: #30363d; border: none;" />
 
 ### Orchestrated by
 
