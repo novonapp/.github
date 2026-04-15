@@ -5,7 +5,7 @@
     <a href="https://novon.iprog.dev">
       <img src="https://img.shields.io/badge/Website-novon.iprog.dev-6C63FF?style=for-the-badge" alt="Website" />
     </a>
-    <a href="https://novon.iprog.dev/docs">
+    <a href="https://novon.iprog.dev/docs/guides/getting-started">
       <img src="https://img.shields.io/badge/Documentation-Get%20Started-00B4AB?style=for-the-badge" alt="Documentation" />
     </a>
   </p>
