@@ -24,8 +24,8 @@ At Novon, we're dedicated to building an open ecosystem for novel enthusiasts. H
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="padding: 10px; border: none;">
-      <a href="https://github.com/novonapp/extensions/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=novonapp&repo=extensions&bg_color=0D1117&text_color=c9d1d9&title_color=6C63FF&icon_color=6C63FF&border_radius=8&hide_border=true&description_lines_count=2" style="border: 1px solid #30363d; border-radius: 12px;" />
+      <a href="https://github.com/novonapp/novon/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=novonapp&repo=novon&bg_color=0D1117&text_color=c9d1d9&title_color=6C63FF&icon_color=6C63FF&border_radius=8&hide_border=true&description_lines_count=2" style="border: 1px solid #30363d; border-radius: 12px;" />
       </a>
     </td>
     <td style="padding: 10px; border: none;">
@@ -34,11 +34,6 @@ At Novon, we're dedicated to building an open ecosystem for novel enthusiasts. H
       </a>
     </td>
   </tr>
-<td style="padding: 10px; border: none;">
-      <a href="https://github.com/novonapp/novon/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=novonapp&repo=novon&bg_color=0D1117&text_color=c9d1d9&title_color=6C63FF&icon_color=6C63FF&border_radius=8&hide_border=true&description_lines_count=2&card_width=310" style="border: 1px solid #30363d; border-radius: 12px;" />
-      </a>
-    </td>
 </table>
 
 <hr style="height: 1px; background-color: #30363d; border: none;" />
